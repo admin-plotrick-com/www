@@ -1,1 +1,1 @@
-PlayGamesPlatfor,OneStore
+PlayGamesPlatform,OneStore
